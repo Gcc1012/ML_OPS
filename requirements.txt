@@ -1,0 +1,6 @@
+Python version: 3.10.12
+Numpy Version :  1.22.4
+Pandas Version :  1.5.3
+Skcit-learn Version :  1.2.2
+Matplotlib Version :  3.7.1
+Pickle version: 4.0
